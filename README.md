@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @harnirvair
 
 <p align="center">
-  <img src="https://view-counter.api.fnkr.net/badge/views/harnirvair.svg" alt="Views">
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharnirvair&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)</p>
+  <img src="https://img.shields.io/github/followers/harnirvair?label=Follow&style=social" alt="Followers">
+</p>
 
 ---
 
