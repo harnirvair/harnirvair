@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/github/followers/harnirvair?label=Follow&style=social" alt="Followers">
 </p>
 
+### 🐍 The Contribution Snake
+![Snake animation](https://github-readme-streak-stats.herokuapp.com/?user=harnirvair&theme=tokyonight&hide_border=true)
 ---
 
 ### 👨‍💻 About Me
