@@ -26,15 +26,6 @@ I'm a passionate developer who loves turning complex problems into simple, elega
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harnirvair&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harnirvair&layout=compact&theme=visual_studio_code" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 * **Email:** [harnirvair@gmail.com](mailto:harnirvair@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/harnirvair/]
