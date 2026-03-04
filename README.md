@@ -1,8 +1,3 @@
-Since this is your GitHub Profile README, it should act as your digital storefront. I’ve balanced it with a clean layout, some visual flair (badges and stats), and a touch of personality.
-
-Copy and paste this into your special harnirvair/harnirvair repository:
-
-Markdown
 # 👋 Hi, I’m @harnirvair
 
 <p align="center">
@@ -43,7 +38,7 @@ I'm a passionate developer who loves turning complex problems into simple, elega
 
 ### 📫 Let's Connect!
 * **Email:** [harnirvair@gmail.com](mailto:harnirvair@gmail.com)
-* **LinkedIn:** [Your Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/harnirvair/]
 
 ---
 
